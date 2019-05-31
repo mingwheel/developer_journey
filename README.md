@@ -93,7 +93,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |:heavy_check_mark:|
 | [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |:heavy_check_mark:|
 | [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |:heavy_check_mark:| [:link:](https://github.com/mingwheel/website)
-| [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |:heavy_check_mark:| [:link:](https://mingwheel.github.io/sample_website/)
+| [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |:heavy_check_mark:| [:link:](https://github.com/mingwheel/sample_website)
 | [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |:soon:|
 | [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                ||
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
