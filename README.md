@@ -94,13 +94,14 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |:heavy_check_mark:|
 | [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |:heavy_check_mark:| [:link:](https://github.com/mingwheel/website)
 | [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |:heavy_check_mark:| [:link:](https://github.com/mingwheel/sample_website)
-| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |:heavy_check_mark:| [:link:](https://github.com/mingwheel/sample_website_2)
-| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |:soon:|
+| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |:heavy_check_mark:| [:link:](https://github.com/mingwheel/sample_website_full)
+| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |:heavy_check_mark:| [:link:](https://github.com/mingwheel/sample_website_full)
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
-| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |            |
-| [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
-| [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |            |
-| [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
+| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |:heavy_check_mark:|
+| [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |:heavy_check_mark:|
+| [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 
+|:heavy_check_mark:|
+| [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |:heavy_check_mark:|
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
