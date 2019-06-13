@@ -1,5 +1,11 @@
 # Computer Science and Programming - Version 4.0
 
+>**This is a reference "curriculum" for my journey to becoming a self-taught developer.**
+>
+>*The table below serves as a checklist for what I've accomplished so far.*
+
+ 
+
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
 
 **Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
