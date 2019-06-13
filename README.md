@@ -1,6 +1,6 @@
 # Computer Science and Programming - Version 4.0
 
->**This is a reference "curriculum" for my journey to becoming a self-taught developer.**
+>**This is a reference "curriculum" for myself, in my journey as self-taught developer.**
 >
 >*The table below serves as a checklist for what I've accomplished so far.*
 
