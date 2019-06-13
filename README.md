@@ -71,10 +71,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |:heavy_minus_sign:|
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |:heavy_minus_sign:|
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |:heavy_minus_sign:|
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |:heavy_minus_sign:|
 
 ### Tier X - Programming Prep Prep
 
@@ -122,9 +122,9 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Courses                                                                                                                                                                                                                                                                                                                                               |   Status   |   Evidence   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                                                                                                                                                                              |:soon:|
-| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)                                                                                                                                                                                                                                         |            |
+| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)                                                                                                                                                                                                                                         |:heavy_minus_sign:|
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                                                                                                                                                                      |            |
-| [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous) or [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)                                    |            |
+| [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous) or [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)                                    |:heavy_minus_sign:|
 | [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                                                                                                                                                                                                                                       |            |
 | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                                                                                                                                                                                                        |            |
 | [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                                                                                                                                                                                                                                            |            |
