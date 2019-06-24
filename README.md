@@ -108,7 +108,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)|:heavy_check_mark:||
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |:heavy_check_mark:|
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
-| [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
+| [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |:heavy_check_mark:|[:link:](https://github.com/mingwheel/google-clone) |
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
 | Tier Programming Project                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                              |            |
