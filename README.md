@@ -109,7 +109,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |:heavy_check_mark:|
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |:heavy_check_mark:|[:link:](https://github.com/mingwheel/google-clone) |
-| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
+| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |:heavy_check_mark:|[:link:](https://github.com/mingwheel/rps) |
 | Tier Programming Project                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                              |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
