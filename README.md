@@ -110,7 +110,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |:heavy_check_mark:|[:link:](https://github.com/mingwheel/google-clone) |
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |:heavy_check_mark:|[:link:](https://github.com/mingwheel/rps) |
-| Tier Programming Project                                                                                                                                              |            |
+| Tier Programming Project                                                                                                                                              |:soon:|
 | Tier Programming Project                                                                                                                                              |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
